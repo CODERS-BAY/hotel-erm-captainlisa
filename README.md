@@ -24,3 +24,7 @@ The hotel also offers service packages. A unique designation (DESIGN) and a pric
 * Package Allocation (**package_allo_ID:int**, package_ID:int, SVNR:int)
 * Subject Area (**subject_area_ID:int**, *schedule_id:int*, designation:varchar(32), location:varchar(32))
 * Schedule (**schedule_id:int**, SVNR:int, subject_area_ID:int)
+
+## Hotel Schema
+
+![Hotel](hotel_schema.jpg)
